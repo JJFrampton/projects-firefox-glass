@@ -5,6 +5,7 @@ Complete the following steps with the firefox browser
 ### Setup
 - navigate to "about:support"
 - find "Profile Directory"
+- back up entire dir elsewhere
 - create a "chrome" dir within this dir
 - clone this project into the "chrome" dir
 
