@@ -3,7 +3,8 @@
 #navigator-toolbox {
     height: 0px !important;
     min-height: 0px !important;
-    overflow: hidden !important;
+    /* removing the hidden overflow allows drop down for url bar */
+    /* overflow: hidden !important; */
 }
 
 #navigator-toolbox:focus,
