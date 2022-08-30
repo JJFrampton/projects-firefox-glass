@@ -10,5 +10,5 @@
 #navigator-toolbox:focus-within,
 #navigator-toolbox:active {
     height: auto !important;
-    overflow: display !important;
+    overflow: visible !important;
 }
