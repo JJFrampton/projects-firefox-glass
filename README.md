@@ -3,7 +3,7 @@
 Complete the following steps with the firefox browser
 
 ### Setup
-- navigate to "about:support"
+- navigate to "about:support" in firefox
 - find "Profile Directory"
 - back up entire profile dir elsewhere
 - clone this project inside the profile dir, renaming to "chrome"
@@ -12,7 +12,7 @@ git clone git@github.com:JJFrampton/projects-firefox-glass.git "${PROFILE_DIR}"/
 ```
 
 ### Enable
-- navigate to "about:config"
+- navigate to "about:config" in firefox
 - ensure "toolkit.legacyUserProfileCustomizations.stylesheets" is set to true
 
 ### Restart Firefox
